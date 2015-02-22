@@ -7,6 +7,7 @@ Using the browser Geolocation API, find the current user location and query goog
 to fetch nearby restaurants list. 
 
 The list of design requirements include:
+
 1. A map view with interactive pins that on hover reveal more information about the selected
 restaurant.
 
